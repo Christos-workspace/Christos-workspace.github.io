@@ -1,0 +1,63 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+- company:
+    name: Microsoft
+    url: "https://www.microsoft.com/" 
+    location: Remote
+  positions:
+  - designation: Azure Data Engineer Associate
+    start: September 2024
+    end: December 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Studied, prepared and passed the Microsoft Azure Data Engineer Associate certification exam (DP-203)."
+    - "Technologies learned: Azure Stream Analytics, Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Azure Blob Storage, Azure Databricks."
+    - "Platforms learned: Microsoft Azure."
+      
+- company:
+    name: Orange Belgium 
+    url: "https://corporate.orange.be/en"
+    location: Evere Brussels, Belgium
+    # company overview
+    overview: Orange Belgium is one of the leading players in the telecommunications market in Belgium and Luxembourg.
+  positions:
+  - designation: Data Engineer intern 
+    start: December 2023
+    end: May 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop ETL pipelines providing cruical data to the data scientists and analysts for their projects.
+    - "Technologies used: Python, SQL, Git, BigQuery."
+    - "Platforms used: Google Cloud Platform (GCP)."
+
+- company:
+    name: BeCode Brussels 
+    url: "https://becode.org/campuses/becode-brussels/"
+    location: Brussels, Belgium
+    # company overview
+    overview: BeCode is a social impact-driven digital skills and coding school, using an active pedagogy to teach in-demand digital skills to motivated individuals in vulnerable professional situations, helping these untapped talents to meet the needs of the job market.
+  positions:
+  - designation: Data Engineer trainee
+    start: April 2023
+    end: November 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 7-month bootcamp training in Data Engineering. 
+    - "Technologies learned: Python, Git, Linux (Bash), SQL, Docker, Airflow, Terraform, Fastapi, Flask, MongoDB, PostegreSQL, SQLite ."
+    - "Platforms learned: AWS"

@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor in Biology
+  icon: fa-microscope
+  timeframe: 1993-1998
+  institution:
+    name: National and Kapodistrian University of Athens
+    url: "https://en.uoa.gr/"
+    

@@ -1,0 +1,78 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "images/sections/skills/python.svg"
+  summary: "Use Python for data cleaning, data manipulation, scripting and automation tasks."
+  url: "https://www.python.org/"
+
+- name: Git
+  logo: "images/sections/skills/Git.svg"
+  summary: "Use Git for version control and collaboration on projects. Have experience with both GitHub and GitLab."
+  url: "https://git-scm.com/"
+
+- name: Linux
+  logo: "images/sections/skills/linux.svg"
+  summary: "Familiar with Linux for terminal operations and bash scripting."
+  url: "https://www.linux.org/"
+
+- name: SQL
+  logo: "images/sections/skills/sql.svg"
+  summary: "Experience with SQL for data cleaning , manipulation, and analysis."
+  url: "https://www.sql.org/"
+
+- name: Airflow
+  logo: "images/sections/skills/airflow.svg"
+  summary: "Use Airflow for orchestrating complex data workflows."
+  url: "https://airflow.apache.org/"
+
+- name: Docker
+  logo: "images/sections/skills/docker.svg"
+  summary: "Use Docker for containerization and deployment of applications."
+  url: "https://www.docker.com/"
+
+- name: FastAPI
+  logo: "images/sections/skills/fastapi.svg"
+  summary: "Use FastAPI for building APIs."
+  url: "https://fastapi.tiangolo.com/"
+
+
+- name: Terraform
+  logo: "images/sections/skills/terraform.svg"
+  summary: "Use Terraform for infrastructure as code and managing cloud resources."
+  url: "https://www.terraform.io/"
+
+- name: postegreSQL
+  logo: "images/sections/skills/postgresql.svg"
+  summary: "Use PostgreSQL for relational database management and data storage."
+  url: "https://www.postgresql.org/"
+
+- name: MongoDB
+  logo: "images/sections/skills/mongodb.svg"
+  summary: "Use MongoDB for NoSQL database management and data storage."
+  url: "https://www.mongodb.com/"
+
+- name: Azure
+  logo: "images/sections/skills/azure.svg"
+  summary: "Know how to use Microsoft Azure for cloud computing and hosting applications."
+  url: "https://azure.microsoft.com/"
+
+- name: AWS
+  logo: "images/sections/skills/aws.svg"
+  summary: "Basic knowledge of Amazon Web Services for cloud computing and hosting applications."
+  url: "https://aws.amazon.com/"
+
+- name: GCP 
+  logo: "images/sections/skills/gcp.svg"
+  summary: "Basic knowledge of Google Cloud Platform for cloud computing and hosting applications."
+  url: "https://cloud.google.com/"
