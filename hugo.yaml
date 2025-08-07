@@ -68,7 +68,7 @@ params:
 
     # Enable Table of contents in reading page
     toc:
-      enable: true
+      enable: false
 
   # Configure footer
   footer:
