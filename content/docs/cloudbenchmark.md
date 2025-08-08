@@ -9,4 +9,4 @@ menu:
 tags: ["Project", "Cloud", "Azure", "AWS", "GCP"]
 categories: ["Project"]
 ---
-#### This a practice Data Engineering Project where I apply various technologies
+#### This a practice Data Engineering Project where I apply various methods and technologies
