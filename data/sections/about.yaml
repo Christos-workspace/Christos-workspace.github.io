@@ -31,6 +31,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/Christos-workspace"
 
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Data-Framed"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
