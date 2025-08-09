@@ -11,8 +11,8 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
+- name: Practice
+  filter: "practice"
 - name: Personal
   filter: "personal"
 
