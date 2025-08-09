@@ -17,13 +17,12 @@ buttons:
   filter: "personal"
 
 projects:
-- name: Placeholder project
-  logo: images/projects/kubernetes.png
+- name: Cloud Benchmark 
+ # logo: images/projects/kubernetes.png
   role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes
+ # repo: https://github.com/kubernetes/kubernetes
   # url: ""
-  summary: Production-Grade Container Scheduling and Management .
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: Comparison of cloud platforms speed in resources deployment
+  tags: ["practice", "cloud", "python", "terraform", "bash scripting"]
 
 
