@@ -9,4 +9,7 @@ menu:
 tags: ["Project", "Cloud", "Azure", "AWS", "GCP"]
 categories: ["Project"]
 ---
-#### This a practice Data Engineering Project where I apply various methods and technologies, like python scraping , terraform etc.
+#### Overview
+
+This a practice Data Engineering Project where I apply various methods and technologies,
+like python scraping , terraform etc.
