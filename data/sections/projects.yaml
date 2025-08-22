@@ -17,12 +17,22 @@ buttons:
   filter: "personal"
 
 projects:
+
+- name: Portfolio site
+ # logo: images/projects/kubernetes.png
+  role: Owner
+ # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Portfolio site to demonstrate my skills with projects
+  tags: ["personal", "HUGO", "toha", "html", "scss", "Markdown", "YAML"]
+
+
 - name: Cloud Benchmark 
  # logo: images/projects/kubernetes.png
-  role: Contributor
+  role: Owner
  # repo: https://github.com/kubernetes/kubernetes
   # url: ""
   summary: Comparison of cloud platforms speed in resources deployment
-  tags: ["practice", "cloud", "python", "terraform", "bash scripting"]
+  tags: ["practice", "cloud", "python", "Azure", "AWS", "GCP", "terraform", "Airflow"]
 
 
