@@ -1,3 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Website on Christos' portfolio</title><link>https://christos-workspace.github.io/categories/website/</link><description>Recent content in Website on Christos' portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://christos-workspace.github.io/categories/website/index.xml" rel="self" type="application/rss+xml"/><item><title>How this site was made</title><link>https://christos-workspace.github.io/docs/sitedoc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christos-workspace.github.io/docs/sitedoc/</guid><description>&lt;h4 id="overview">Overview&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Website on Christos' portfolio</title><link>https://christos-workspace.github.io/categories/website/</link><description>Recent content in Website on Christos' portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://christos-workspace.github.io/categories/website/index.xml" rel="self" type="application/rss+xml"/><item><title>How this site was made</title><link>https://christos-workspace.github.io/docs/sitedoc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christos-workspace.github.io/docs/sitedoc/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>This site was generated using the &lt;a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo&lt;/a> platform,
-with the &lt;a href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">toha&lt;/a> theme as a base.&lt;/p></description></item></channel></rss>
+with the &lt;a href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">toha&lt;/a> theme as a base.
+The site showcases my profile, skills, experiences, education, and personal/practice projects, all managed via Hugo&amp;rsquo;s content organization and the powerful configuration features of Toha.&lt;/p>
+&lt;h3 id="key-features">Key Features&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Modern Static Site:&lt;/strong> Fast, secure, and easily deployable anywhere.&lt;/li>
+&lt;li>&lt;strong>Custom Sections:&lt;/strong> About, Skills, Education, Experiences, Projects, and Documentation, each configurable via YAML files in &lt;code>data/sections/&lt;/code>.&lt;/li>
+&lt;li>&lt;strong>Project Documentation:&lt;/strong> Each project has dedicated pages under &lt;code>content/docs/&lt;/code> (see &lt;code>cloudbenchmark.md&lt;/code> for a data engineering example).&lt;/li>
+&lt;li>&lt;strong>Responsive Design:&lt;/strong> The Toha theme ensures good appearance on all devices.&lt;/li>
+&lt;li>&lt;strong>Custom Navbar &amp;amp; Sidebar:&lt;/strong> Navigation is handled via modular layouts in &lt;code>layouts/&lt;/code>, with easily editable site structure.&lt;/li>
+&lt;li>&lt;strong>Social &amp;amp; Badges:&lt;/strong> Integrated social links, certifications, and soft skills in the About section.&lt;/li>
+&lt;li>&lt;strong>Easy Theming:&lt;/strong> Background, logos, and colors are customizable via theme parameters and assets.&lt;/li>
+&lt;li>&lt;strong>Multilingual &amp;amp; Search Support:&lt;/strong> Ready for internationalization and site-wide search (see sidebar).&lt;/li>
+&lt;/ul>
+&lt;h2 id="structure">Structure&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>content/&lt;/code> — Main markdown content, including documentation pages.&lt;/li>
+&lt;li>&lt;code>data/&lt;/code> — Site and section configuration in YAML format.&lt;/li>
+&lt;li>&lt;code>layouts/&lt;/code> — Custom HTML layouts and partials for theme overrides.&lt;/li>
+&lt;li>&lt;code>static/&lt;/code> — Static assets (images, logos, etc.).&lt;/li>
+&lt;li>&lt;code>.github/workflows/&lt;/code> — Workflow configuration for automated deployment (e.g., GitHub Pages).&lt;/li>
+&lt;/ul>
+&lt;h2 id="usage">Usage&lt;/h2>
+&lt;h3 id="prerequisites">Prerequisites&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/getting-started/install/" target="_blank" rel="noopener">Hugo&lt;/a> (extended version recommended)&lt;/li>
+&lt;li>Basic YAML and Markdown familiarity&lt;/li>
+&lt;/ul>
+&lt;h3 id="running-locally">Running Locally&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git clone https://github.com/Christos-workspace/Christos-workspace.github.io.git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd Christos-workspace.github.io
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo server
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Browse to &lt;code>http://localhost:1313&lt;/code> to view the site.&lt;/p></description></item></channel></rss>
