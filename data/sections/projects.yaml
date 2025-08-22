@@ -21,8 +21,8 @@ projects:
 - name: Portfolio site
  # logo: images/projects/kubernetes.png
   role: Owner
- # repo: https://github.com/kubernetes/kubernetes
-  # url: ""
+  repo: https://github.com/Christos-workspace/Christos-workspace.github.io
+  url:  "https://christos-workspace.github.io/"
   summary: Portfolio site to demonstrate my skills with projects
   tags: ["personal", "HUGO", "toha", "html", "scss", "Markdown", "YAML"]
 
@@ -33,6 +33,6 @@ projects:
  # repo: https://github.com/kubernetes/kubernetes
   # url: ""
   summary: Comparison of cloud platforms speed in resources deployment
-  tags: ["practice", "cloud", "python", "Azure", "AWS", "GCP", "terraform", "Airflow"]
+  tags: ["practice", "cloud", "python", "web scraping", "Azure", "AWS", "GCP", "Docker", "Docker-compose", "terraform", "Airflow"]
 
 
