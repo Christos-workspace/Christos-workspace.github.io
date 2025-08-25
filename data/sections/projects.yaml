@@ -30,8 +30,7 @@ projects:
 - name: Cloud Benchmark 
  # logo: images/projects/kubernetes.png
   role: Owner
- # repo: https://github.com/kubernetes/kubernetes
-  # url: ""
+  repo: https://github.com/Christos-workspace/cloud-benchmark
   summary: Comparison of cloud platforms speed in resources deployment
   tags: ["practice", "cloud", "python", "web scraping", "Azure", "AWS", "GCP", "Docker", "Docker-compose", "terraform", "Airflow"]
 
