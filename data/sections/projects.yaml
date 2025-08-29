@@ -24,7 +24,7 @@ projects:
   repo: https://github.com/Christos-workspace/Christos-workspace.github.io
   url:  https://christos-workspace.github.io/
   summary: Portfolio site to demonstrate my skills with projects
-  tags: ["personal", "HUGO", "toha", "html", "scss", "Markdown", "YAML"]
+  tags: ["personal", "Hugo", "toha", "html", "scss", "Markdown", "YAML", "Github Actions"]
 
 
 - name: Cloud Benchmark 
