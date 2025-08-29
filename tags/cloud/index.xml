@@ -1,3 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Christos' portfolio</title><link>https://christos-workspace.github.io/tags/cloud/</link><description>Recent content in Cloud on Christos' portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://christos-workspace.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Benchmark Project</title><link>https://christos-workspace.github.io/docs/cloudbenchmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christos-workspace.github.io/docs/cloudbenchmark/</guid><description>&lt;h4 id="overview">Overview&lt;/h4>
-&lt;p>This a practice Data Engineering Project where I apply various methods and technologies,
-like python scraping , terraform etc.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Christos' portfolio</title><link>https://christos-workspace.github.io/tags/cloud/</link><description>Recent content in Cloud on Christos' portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://christos-workspace.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Benchmark Project</title><link>https://christos-workspace.github.io/docs/cloudbenchmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christos-workspace.github.io/docs/cloudbenchmark/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;cloud-benchmark&lt;/strong&gt; is a multi-cloud benchmarking and learning project. It demonstrates how to orchestrate the deployment, execution, and cleanup of cloud resources and container workloads using modern DevOps tools. The project is designed for hands-on practice and comparison of workflows across Azure, AWS, and GCP.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python:&lt;/strong&gt; Web scraping and data modeling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Azure:&lt;/strong&gt; Blob storage, Container Registry, Container Instances&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker:&lt;/strong&gt; Containerization of the scraper&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terraform:&lt;/strong&gt; Infrastructure as Code for resource provisioning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apache Airflow:&lt;/strong&gt; Workflow orchestration and benchmarking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="project-workflow"&gt;Project Workflow&lt;/h2&gt;
+&lt;h3 id="azure-workflow"&gt;Azure Workflow&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Web Scraper Development (&lt;code&gt;container/&lt;/code&gt;):&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
